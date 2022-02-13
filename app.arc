@@ -3,6 +3,7 @@ deno-hello
 
 @http
 get /
+get /about
 
 @tables
 data
